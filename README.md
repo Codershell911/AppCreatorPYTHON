@@ -1,3 +1,3 @@
 # AppCreatorPYTHON
 
-This Repo is a Repo of a python code that creates any app you want but you have to code the files and if ur done with ur app enjoy it and thank me later
+This is my own app creator written in Python. You need to input the app name, press 'enter,' and it will create the folders and files. HOWEVER, YOU have to CODE IT. If you only enter a space in the input, it won't do anything. It will ask you whether it should run the build.gradle. If you input 'Y,' it will run; if 'N,' it will leave the code and print 'Exiting...'
